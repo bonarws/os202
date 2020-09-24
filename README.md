@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Bonar Wilfred OS202 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bonarws/os202/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my Github Page for OS202
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Week 00 TOP 10 LIST
+
+1. [The Most Popular Operating Systems](https://www.youtube.com/watch?v=eJuvKn5j_kE)
+2. [Brief Intro to Operating Systems](https://www.youtube.com/watch?v=5AjReRMoG3Y)
+3. [Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=cQepf9fY6cE)
+4. [Security in Operating Systems](https://www.youtube.com/watch?v=uFIzD1k5S5U)
+5. [Linux File Systems Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+6. [Process Synchronazation](https://www.youtube.com/watch?v=3Eaw1SSIqRg)
+7. [Mass Storage Systems](https://www.youtube.com/watch?v=KMETs6ONOoI)
+8. [Why is Systemd](https://www.youtube.com/watch?v=hc7J-zWEty8)
+9. [Basic of I/O](https://www.youtube.com/watch?v=F18RiREDkwE)
+10. [I/O Programming](https://www.youtube.com/watch?v=wEUosksGZAs)
 
 ### Markdown
 
