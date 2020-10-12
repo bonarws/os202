@@ -1,4 +1,4 @@
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
