@@ -1,7 +1,0 @@
-#!/bin/bash
-function Write()
-{
-echo 'I like bash programming'
-}
-
-Write
