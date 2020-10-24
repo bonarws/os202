@@ -25,3 +25,8 @@ ZCZC W04 30 L03 Do Week 04 Assignment
 ZCZC W04 23 L03 Make TOP 10 List Week 04
 ZCZC W04 20 L04 Chatting
 ZCZC W04 10 L04 Submit Week 04 Assingment
+ZCZC W05 10 L01 Make log
+ZCZC W05 20 L02 Make new chktoken
+ZCZC W05 30 L03 Make TOP 10 LIST
+ZCZC W05 10 L04 Play TikTok
+ZCZC W05 20 L05 Finish Weekly Assignment
