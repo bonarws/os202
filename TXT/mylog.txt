@@ -36,4 +36,10 @@ ZCZC W06 20 L03 Read W06.pdf
 ZCZC W06 30 L04 Doing W06 Assignment
 ZCZC W06 10 L05 Open IG
 ZCZC W06 20 L06 Making TOP 10 List W06
+ZCZC W07 10 L00 Check Assignment
+ZCZC W07 30 L01 Make TOP 10 List 
+ZCZC W07 50 L03 Listen Spotify
+ZCZC W07 10 L04 Make another CHKTOKEN
+ZCZC W07 10 L05 Change W07 C File
+ZCZC W07 10 L06 Submit Week 07 Assignment
 
