@@ -42,4 +42,10 @@ ZCZC W07 50 L03 Listen Spotify
 ZCZC W07 10 L04 Make another CHKTOKEN
 ZCZC W07 10 L05 Change W07 C File
 ZCZC W07 10 L06 Submit Week 07 Assignment
+ZCZC W08 10 L00 Check Assignment Week 08	
+ZCZC W08 60 L01 Make TOP 10 List
+ZCZC W08 50 L02 Listening to music
+ZCZC W08 10 L03 Make another CHKTOKEN
+ZCZC W08 10 L04 Change C File
+ZCZC W08 10 L05 Submit the assignment of Week 08
 
