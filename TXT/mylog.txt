@@ -48,4 +48,11 @@ ZCZC W08 50 L02 Listening to music
 ZCZC W08 10 L03 Make another CHKTOKEN
 ZCZC W08 10 L04 Change C File
 ZCZC W08 10 L05 Submit the assignment of Week 08
+ZCZC W09 10 L00 Check Assignment Week 09
+ZCZC W09 60 L01 Make TOP 10 List
+ZCZC W09 50 L02 Watching Youtube
+ZCZC W09 10 L03 Make another CHKTOKEN
+ZCZC W09 10 L04 Make tarball for W09
+ZCZC W09 10 L05 Submit the assignment of Week 09
+
 
