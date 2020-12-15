@@ -54,5 +54,10 @@ ZCZC W09 50 L02 Watching Youtube
 ZCZC W09 10 L03 Make another CHKTOKEN
 ZCZC W09 10 L04 Make tarball for W09
 ZCZC W09 10 L05 Submit the assignment of Week 09
-
+ZCZC W10 20 L00 Making coffe
+ZCZC W10 10 L01 Watch Youtube
+ZCZC W10 10 L02 Check the last assignment Week 10
+ZCZC W10 60 L03 Make the last TOP 10 List
+ZCZC W10 20 L04 Make tarball for W10
+ZCZC W10 10 L05 Submit the last assignment of this Week 10
 
